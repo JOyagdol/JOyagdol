@@ -48,7 +48,6 @@
   
   </br>
   </br>
-  </br>
   
   ![JOyagdol's github stats](https://github-readme-stats.vercel.app/api?username=JOyagdol&show_icons=true&title_color=ff9f29&custom_title=JOyagdol's%20github&icon_color=1a4d2e)
 </div>
