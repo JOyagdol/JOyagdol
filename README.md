@@ -2,6 +2,13 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3C3B3F,100:605C3C&height=250&text=%F0%9F%AA%A8%20JOyagdol%20%F0%9F%AA%A8&fontColor=ffffff&fontAlignY=35&textBg=true)
 
+  <div align="left">
+  
+                              🧑‍💻 Hi! I'm JOyagdol  
+               
+                              📧 joyagdol1224@gmail.com
+  </div>
+  </br>
 
   📑SNS List📑
   
