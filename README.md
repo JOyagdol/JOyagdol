@@ -47,7 +47,11 @@
   </br>
   </br>
   </br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pool1224)](https://solved.ac/pool1224)
+  
+  </br>
   </br>
   
-  ![JOyagdol's github stats](https://github-readme-stats.vercel.app/api?username=JOyagdol&show_icons=true&title_color=ff9f29&custom_title=JOyagdol's%20github&icon_color=1a4d2e)
+  ![JOyagdol's github stats](https://github-readme-stats.vercel.app/api?username=JOyagdol&show_icons=true&title_color=ff9f29&custom_title=JOyagdol's%20Github&icon_color=1a4d2e)
 </div>
