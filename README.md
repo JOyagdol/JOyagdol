@@ -4,9 +4,9 @@
 
   <div align="left">
   
-                              🧑‍💻 Hi! I'm JOyagdol  
+                                          🧑‍💻 Hi! I'm JOyagdol  
                
-                              📧 joyagdol1224@gmail.com
+                                          📧 joyagdol1224@gmail.com
   </div>
   </br>
 
@@ -44,8 +44,6 @@
   <img src="https://img.shields.io/badge/LINUX-ff9f29?style=for-the-badge&logo=Linux&logoColor=white">
   </br>
   </br>
-  </br>
-  
   </br>
   </br>
   
