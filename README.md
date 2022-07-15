@@ -4,7 +4,9 @@
 
   <div align="left">
   
-                                          🧑‍💻 Hi! I'm JOyagdol  
+                                          🧑‍💻 Hi! I'm JOyagdol.
+                                          
+                                          💻 My major is Computer Engineering.
                
                                           📧 joyagdol1224@gmail.com
   </div>
