@@ -16,8 +16,8 @@
   
   💻Tech Stack💻
   </br>
-  Techs that I've used at least once
-  </br>
+  __Techs that I've used at least once__
+  
   
   <img src="https://img.shields.io/badge/Python-3ab4f2?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-293462?style=for-the-badge&logo=C&logoColor=white">
